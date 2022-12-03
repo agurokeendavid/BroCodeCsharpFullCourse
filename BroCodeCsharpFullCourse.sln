@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperatorsLesson",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClassLesson", "MathClassLesson\MathClassLesson.csproj", "{097A480C-B9DD-416E-823D-F4854E4B2B1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberLesson", "RandomNumberLesson\RandomNumberLesson.csproj", "{785B0CC5-4153-457C-8595-1FEA06D4CAA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{097A480C-B9DD-416E-823D-F4854E4B2B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097A480C-B9DD-416E-823D-F4854E4B2B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097A480C-B9DD-416E-823D-F4854E4B2B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{785B0CC5-4153-457C-8595-1FEA06D4CAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785B0CC5-4153-457C-8595-1FEA06D4CAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785B0CC5-4153-457C-8595-1FEA06D4CAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785B0CC5-4153-457C-8595-1FEA06D4CAA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
